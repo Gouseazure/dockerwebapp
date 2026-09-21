@@ -3,8 +3,6 @@
     <modelVersion>4.0.0</modelVersion>
     <groupId>com.visualpathit</groupId>
     <artifactId>vprofile</artifactId>
-	<groupId>org.sonarsource.scanner.maven</groupId>
-    <artifactId>sonar-maven-plugin</artifactId>
     <packaging>war</packaging>
     <version>v2</version>
     <name>Devops Webapp</name>
